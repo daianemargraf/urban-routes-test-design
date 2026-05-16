@@ -97,14 +97,15 @@ The repository includes structured manual test cases covering:
 # Screenshots & Evidence
 
 ## Equivalence Classes Documentation
+<img width="1586" height="879" alt="equivalence-classes png" src="https://github.com/user-attachments/assets/1e689d16-92f6-404b-8777-1a006fb004b0" />
 
-![Equivalence Classes](screenshots/equivalence-classes.png)
 
 ---
 
 ## Structured Test Cases
 
-![Test Cases](screenshots/test-cases-validation.png)
+<img width="1490" height="872" alt="test-cases-validation png" src="https://github.com/user-attachments/assets/bc373a01-65bb-42a2-b78b-7fa4ca325ef7" />
+
 
 ---
 
